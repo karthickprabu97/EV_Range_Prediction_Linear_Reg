@@ -1,1 +1,1 @@
-# EV_Range_Prediction_Linear_Reg
+##### The goal of this project was to predict the range of EVs using the given data.
